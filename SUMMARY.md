@@ -12,3 +12,7 @@
 ## ☁ AWS
 
 * [Code Snippets](aws/code-snippets.md)
+
+## BlogPosts
+
+* [Key Sectors of Metaverse](blogposts/key-sectors-of-metaverse.md)
