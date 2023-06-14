@@ -1,3 +1,9 @@
+---
+description: >-
+  Diverse sectors that make up the metaverse, revealing the possibilities and
+  opportunities it presents.
+---
+
 # Key Sectors of Metaverse
 
 ## **Introduction**:
