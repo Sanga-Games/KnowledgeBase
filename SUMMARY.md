@@ -13,6 +13,6 @@
 
 * [Code Snippets](aws/code-snippets.md)
 
-## BlogPosts
+## C++ Guides
 
-* [Key Sectors of Metaverse](blogposts/key-sectors-of-metaverse.md)
+* [Basic Usage](c++-guides/basic-usage.md)
