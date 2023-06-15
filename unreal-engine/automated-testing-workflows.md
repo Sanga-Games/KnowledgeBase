@@ -3,6 +3,7 @@
 #### References
 
 * [https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/Automation/](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/Automation/)
+* [https://www.youtube.com/playlist?list=PLvyP9KXei9H0OU0ZDMaKcyWjrHA6pKFrY](https://www.youtube.com/playlist?list=PLvyP9KXei9H0OU0ZDMaKcyWjrHA6pKFrY)
 * [https://www.youtube.com/watch?v=528XSNTfxX8](https://www.youtube.com/watch?v=528XSNTfxX8)
 * [https://www.youtube.com/watch?v=erNW3r9uRH0](https://www.youtube.com/watch?v=erNW3r9uRH0)
 * [https://www.youtube.com/watch?v=K8gNN0FyIw4](https://www.youtube.com/watch?v=K8gNN0FyIw4)
