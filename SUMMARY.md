@@ -13,6 +13,6 @@
 
 * [Code Snippets](aws/code-snippets.md)
 
-## C++ Guides
+## Programming Guides
 
-* [Basic Usage](c++-guides/basic-usage.md)
+* [C++ Guide - External](programming-guides/c++-guide-external.md)
