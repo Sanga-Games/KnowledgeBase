@@ -4,20 +4,10 @@
 
 asdsdas satest
 
+sdasd
 
+a
 
-
-
-
-
-helosoda
-
-as
-
-&#x20;d
-
-as
-
-ds
+dasd
 
 #### [https://playamigos.gitbook.io/journey-into-c++/](https://playamigos.gitbook.io/journey-into-c++/)
