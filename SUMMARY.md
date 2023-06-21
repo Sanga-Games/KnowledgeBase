@@ -16,4 +16,3 @@
 ## Programming Guides
 
 * [C++ Guide - External](programming-guides/c++-guide-external.md)
-* [Demo page](programming-guides/demo-page.md)
